@@ -1,5 +1,7 @@
 # leanix-pivio-showcase
 
+***Service is deprecated***
+
 **In order to set up the Pivio integration you need a few things to start:**
 
 Prerequisites:
